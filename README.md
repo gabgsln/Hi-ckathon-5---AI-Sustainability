@@ -1,4 +1,4 @@
-# Hi!ckathon #5 — AI & Sustainability (3rd Best Score)
+# Hi!ckathon #5 — AI & Sustainability
 
 <p align="center">
   <img src="https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png" width="300" height="200" />
