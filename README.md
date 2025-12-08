@@ -54,6 +54,3 @@ This keeps the ensemble:
 - **interpretable**
 - **less prone to overfitting** thanks to L2 regularization.
 
----
-
-## Repository Structure
